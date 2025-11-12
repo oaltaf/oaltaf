@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oaltaf" alt="oaltaf" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Mwqnb8yhXkW4aKKx5">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 - 🔭 I’m currently working on **FollowupCRM**
 
