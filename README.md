@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FollowupCRM**
 
-- 🌱 I’m currently learning **NextJS, AWS**
+- 🌱 I’m currently learning **AWS, AI Model Training, n8n**
 
 - 👨‍💻 All of my projects are available at [www.osamaaltaf.com](www.osamaaltaf.com)
 
