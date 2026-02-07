@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SDET from Pakistan</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oaltaf" alt="oaltaf" /></a> </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=oaltaf)](https://github.com/oaltaf/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=oaltaf&theme=flat)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
 
